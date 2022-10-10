@@ -1,6 +1,10 @@
 body {
 background-color: black
 }
+h1 {
+	font-family: Courier New
+	color: white
+}
 table, tr{
 	background-color: black
 	border-color: white
