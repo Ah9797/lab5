@@ -1,6 +1,9 @@
 body {
   background-color: black;
 }
+img {
+	float: inline;
+}
 h1 {
   font-family: "Courier New";
   color: white;
