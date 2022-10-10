@@ -3,6 +3,9 @@ body {
 }
 img {
 	float: inline;
+	width: 150px;
+	height: 150px;
+	position: center;
 }
 h1 {
   font-family: "Courier New";
