@@ -1,17 +1,17 @@
 body {
-background-color: black
+  background-color: black
 }
 h1 {
-	font-family: Courier New
-	color: white
+  font-family: Courier New
+  color: white
 }
 table, tr{
-	background-color: black
-	border-color: white
-	width: 100%
-	text-align: center
+  background-color: black
+  border-color: white
+  width: 100%
+  text-align: center
 }
 td {
-	color: white
-	font-family: Courier New
+  color: white
+  font-family: Courier New
 }
