@@ -6,7 +6,7 @@ body {
 	text-align:center;
 }
 img {
-	float: inline;
+	display: inline-block;
 	width: 250px;
 	height: 250px;
 }
@@ -16,7 +16,6 @@ h1 {
   text-align: center;
 }
 tr, td {
-  background-color: black;
   border-color: white;
   border-style: dashed;
   border-width: 3px;
