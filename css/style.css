@@ -1,0 +1,12 @@
+html {
+background-color: black
+}
+table, tr{
+	background-color: black
+	border-color: white
+	width: 100%
+	text-align: center
+}
+td {
+	color: white
+}
