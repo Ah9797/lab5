@@ -20,6 +20,7 @@ tr, td {
   float: left-side;
   color: white;
   font-family: "Courier New";
+  width: 20%;
 }
 .planetR {
   border-bottom-style: dashed;
