@@ -12,7 +12,7 @@ h1 {
   color: white;
   text-align: center;
 }
-table, tr{
+table, tr, td {
   background-color: black;
   border-color: white;
   border-style: dashed;
@@ -20,8 +20,6 @@ table, tr{
   width: 100%;
   text-align: center;
   float: left-side;
-}
-td {
   color: white;
   font-family: "Courier New";
 }
