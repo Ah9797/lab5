@@ -16,7 +16,8 @@ h1 {
   text-align: center;
 }
 table {
-  position: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 tr, td {
   text-align: center;
